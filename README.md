@@ -1,4 +1,4 @@
-# javascript-notes
+# Javascript lecture notes
 
 ## Intro to Javascript
 
